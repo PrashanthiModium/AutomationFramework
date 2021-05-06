@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc372165-0338-4663-8db2-2c256f0e4f75" name="Default" comment="Commiting AssetInsight">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extent-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/report1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Helpers/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Pages/Base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Pages/Base/PageInstances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Pages/PageObjects/SignInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/dataproviders/ConfigFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/webdriver/GenericWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/webdriver/WebDriverUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Stepdefinintion/Stepdefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demoproject/gui/cucumber/Deployment/Acceptance/TestUtils/BeforeAfter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demoproject/gui/cucumber/Deployment/Acceptance/TestUtils/DemoRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/com/demoproject/gui/cucumber/Deployment/Acceptance/HompePage/AddingProductToCart.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/report.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
