@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc372165-0338-4663-8db2-2c256f0e4f75" name="Default" comment="Commiting AssetInsight">
+    <list default="true" id="dc372165-0338-4663-8db2-2c256f0e4f75" name="Default" comment="Commiting project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/report.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -470,7 +469,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.32840237" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -832,7 +831,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525256918813</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commiting project">
+      <created>1620285444049</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1620285444049</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -953,7 +959,8 @@
     <MESSAGE value="ProductsPage-900 Class" />
     <MESSAGE value="DG Additional Questions- 2.1- Changes to existing field, Additional values" />
     <MESSAGE value="DG Additional Questions- 3.1- Changes to existing field, Additional values" />
-    <option name="LAST_COMMIT_MESSAGE" value="DG Additional Questions- 3.1- Changes to existing field, Additional values" />
+    <MESSAGE value="Commiting project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
