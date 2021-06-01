@@ -1,4 +1,4 @@
-# Auto-Test Framework
+# Automation-Test Framework
 
 Selenium & Java based frontend automation suite utilising the BDD methodologies of Cucumber and Gherkin
 
