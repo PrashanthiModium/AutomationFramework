@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc372165-0338-4663-8db2-2c256f0e4f75" name="Default" comment="Commiting project" />
+    <list default="true" id="dc372165-0338-4663-8db2-2c256f0e4f75" name="Default" comment="Commiting project">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gui/cucumber/Pages/Base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gui/cucumber/Pages/PageObjects/CalculatorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gui/cucumber/webdriverwait/WebDriverUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/com/gui/cucumber/HompePage/BorrowingCaluculator.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/report1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Helpers/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gui/cucumber/Helpers/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Pages/Base/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Pages/Base/PageInstances.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gui/cucumber/Pages/Base/PageInstances.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Pages/PageObjects/SignInPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/dataproviders/ConfigFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gui/cucumber/dataproviders/ConfigFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/webdriver/GenericWait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demoproject/gui/cucumber/Deployment/Acceptance/webdriver/WebDriverUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demoproject/gui/cucumber/Deployment/Acceptance/Stepdefinintion/Stepdefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gui/cucumber/Stepdefinintion/Stepdefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demoproject/gui/cucumber/Deployment/Acceptance/TestUtils/BeforeAfter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gui/cucumber/TestUtils/BeforeAfter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demoproject/gui/cucumber/Deployment/Acceptance/TestUtils/DemoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gui/cucumber/TestUtils/DemoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com/demoproject/gui/cucumber/Deployment/Acceptance/HompePage/AddingProductToCart.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/geckodriver.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -471,15 +494,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.32840237" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91998\Documents\Automation\DemoProject\tool" />
+      <recent name="C:\Users\91998\Documents\Automation\DemoProject" />
       <recent name="C:\Users\91998\Desktop\AssetInsight-master\AssetInsight-master\tool" />
       <recent name="C:\Users\91998\Desktop\AssetInsight-master\AssetInsight-master\tools" />
       <recent name="C:\Users\sb00354706\IdeaProjects\AssetInsight\src\test\resources\com\techmahindra\gui\cucumber\Deployment\AssetInsightAcceptance" />
-      <recent name="D:\AssetInsight-master\AssetInsight-master\src\test\resources\com\techmahindra\gui\cucumber\Deployment\AssetInsightAcceptance\TechnologyPage_3.1" />
-      <recent name="D:\AssetInsight-master\AssetInsight-master\src\test\resources\com\techmahindra\gui\cucumber\Deployment\AssetInsightAcceptance\TechnologyPage_2\1" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -625,12 +648,12 @@
       <module name="DemoProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demoproject.gui.cucumber.Deployment.Acceptance.TestUtils.*" />
+          <option name="PATTERN" value="com.gui.cucumber.TestUtils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.demoproject.gui.cucumber.Deployment.Acceptance.TestUtils" />
-      <option name="MAIN_CLASS_NAME" value="com.demoproject.gui.cucumber.Deployment.Acceptance.TestUtils.DemoRunner" />
+      <option name="PACKAGE_NAME" value="com.gui.cucumber.TestUtils" />
+      <option name="MAIN_CLASS_NAME" value="com.gui.cucumber.TestUtils.DemoRunner" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
